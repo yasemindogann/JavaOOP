@@ -1,2 +1,9 @@
-package oop.inheritance;public class Hayvan {
+package oop.inheritance;
+
+public class Hayvan {
+
+    public void beslenme(){
+        System.out.println("Hayvanlar beslenir.");
+    }
+
 }

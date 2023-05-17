@@ -1,4 +1,4 @@
-package oop.abstracts;
+package oop.abstracts.abstracts;
 
 public class ZorunluDerslerMain {
     public static void main(String[] args) {

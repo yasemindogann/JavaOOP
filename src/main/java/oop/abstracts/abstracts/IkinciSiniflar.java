@@ -1,4 +1,4 @@
-package oop.abstracts;
+package oop.abstracts.abstracts;
 
 public class IkinciSiniflar extends ZorunluDersler{
     @Override

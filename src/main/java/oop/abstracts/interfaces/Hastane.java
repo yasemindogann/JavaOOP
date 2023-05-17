@@ -1,6 +1,6 @@
 package oop.abstracts.interfaces;
 
-public interface OrtakMethod {
+public interface Hastane {
 
     void kaydet();
 
