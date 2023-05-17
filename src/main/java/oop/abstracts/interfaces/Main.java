@@ -15,5 +15,12 @@ public class Main {
         doktor1.kaydet();   //Doktor başarıyla kaydedildi
         doktor1.sil();      //Doktor başarıyla silindi
         doktor1.guncelle(); //Doktor başarıyla güncellendi
+
+
+        //Interface içindeki variable'lar interface adı ile çağırılır.
+        //Çünkü otomatik olarak static ve final'dır.
+        System.out.println(OrnekInterface.name);
+        System.out.println(OrnekInterface.yas);
+
     }
 }

@@ -7,4 +7,5 @@ public interface Hastane {
     void sil();
 
     void guncelle();
+
 }
